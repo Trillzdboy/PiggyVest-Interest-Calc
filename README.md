@@ -5,3 +5,5 @@ In this simple page, JavaScript was incorporated to make a calculator which uses
 💥Single page
 💥 Responsive design
 💥Placeholders for values
+
+View at https://trillzpiggycalc.netlify.app/
